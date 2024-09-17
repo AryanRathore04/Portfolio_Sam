@@ -28,9 +28,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I am Aryan Rathore, web developer from MP, India, I have rich
-              experience in web site design and building and customization, also
-              I am good at WordPress.
+            I am a digital marketer,  Skilled in SEO, social media marketing, email marketing, and paid advertising. I have my expertise in Graphic designing, Video Editing, Photoshop, Appointment Setting, and Web development
             </p>
             <a href="" className="btn">
               Download CV
